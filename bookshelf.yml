@@ -1,8 +1,10 @@
 ---
 books:
   - isbn: 978-0-7352-1093-6
-    rating: 5
-    review: Very, very interesting
+    title: Because Internet
   - isbn: 978-0-13-419044-0
+    title: The Go Programming Language
   - isbn: 978-0-7494-8406-4
+    title: Disruptive Branding
   - isbn: 978-0-307-88789-4
+    title: The Lean Startup
