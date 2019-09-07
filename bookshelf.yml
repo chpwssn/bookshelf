@@ -257,3 +257,41 @@ books:
     title: Our Dumb World
   - isbn: 978-0-316-13324-1
     title: The Onion Book Of Known Knowledge
+  - isbn: 978-1-449-33958-6
+    title: MySQL High Availability
+  - isbn: 978-1-59327-603-4
+    title: Python Crash Course
+  - isbn: 978-1-59327-950-9
+    title: Eloquent Javascript
+  - isbn: 978-1-119-09672-6
+    title: Applied Cryptography
+  - isbn: 0-7645-3551-X
+    title: America Online Tour Guide
+  - isbn: 978-0-13-148005-6
+    title: Unix and Linux System Administration Handbook
+  - isbn: 978-1-59327-892-2
+    title: Absolute FreeBSD
+  - isbn: 978-1-449-32002-7
+    title: Active Directory
+  - isbn: "9780672325250"
+    title: PHP and MySQL Web Development
+  - isbn: 0-13-581173-2
+    title: Microprocessors and Programmed Logic
+  - isbn: 978-0-07-246750-5
+    title: Introduction to Computing Systems
+  - isbn: 0-913894-23-4
+    title: Assemblers, Compilers, and Program Translation
+  - isbn: 978-1-60229-876-7
+    title: Introduction to American History
+  - isbn: 978-0-87259-730-3
+    title: ARRL Introduction to Emergency Communications Course
+  - isbn: 978-0-19-538527-4
+    title: Global Politics
+  - isbn: 978-0-07-337891-6
+    title: Inside Reporting
+  - isbn: 978-1-256-21181-5
+    title: Pearson Custom Computer Science
+  - isbn: 0-89588-063-6
+    title: From Chips To Systems
+  - isbn: 0-596-00178-9
+    title: Perl & LWP
