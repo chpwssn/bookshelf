@@ -57,7 +57,7 @@ books:
     title: The Longer Long Tail
   - isbn: 978-0-671-02703-2
     title: How to Win Friends & Influence People
-  - isbn: 9780525540175
+  - isbn: "9780525540175"
     title: Brotopia
   - isbn: 978-0-525-53622-2
     title: Measure What Matters
