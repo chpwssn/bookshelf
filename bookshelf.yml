@@ -12,3 +12,43 @@ books:
     title: Make Time
   - isbn: 978-1-7322651-8-9
     title: An Elegant Puzzle
+  - isbn: 978-0-525-53442-6
+    title: Start at the End
+  - isbn: 978-1-119-38750-3
+    title: Inspired
+  - isbn: 978-0-393-35038-8
+    title: Death by Black Hole
+  - isbn: 978-1-59184-801-1
+    title: Leaders Eat last
+  - isbn: 978-1-59184-644-4
+    title: Start With Why
+  - isbn: 978-0-06-289632-2
+    title: The Business of Platforms
+  - isbn: 0-316-34662-4
+    title: The Tipping Point
+  - isbn: 978-0-7352-1129-2
+    title: Atomic Habits
+  - isbn: 0-06-662099-6
+    title: Good To Great
+  - isbn: 978-0-525-42956-2
+    title: Originals
+  - isbn: 978-0-06-245819-3
+    title: Chaos Monkeys
+  - isbn: 978-1-5011-2174-6
+    title: Sprint
+    meta:
+      qty: 2
+  - isbn: 978-1-885167-77-4
+    title: The One Thing
+  - isbn: 978-1-592-40203-8
+    title: Eats, Shoots & Leaves
+  - isbn: 978-0-06-134672-9
+    title: In-N-Out Burger
+  - isbn: 978-0-300-21512-0
+    title: Twitter and Tear Gas
+  - isbn: 978-0-8041-3738-6
+    title: Essentialism
+  - isbn: 978-1-62157-576-4
+    title: Life After Google
+  - isbn: 978-0-525-68692-7
+    title: How To
