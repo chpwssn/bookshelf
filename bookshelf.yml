@@ -279,7 +279,7 @@ books:
     title: Microprocessors and Programmed Logic
   - isbn: 978-0-07-246750-5
     title: Introduction to Computing Systems
-  - isbn: 0-913894-23-4
+  - isbn: 0-914894-23-4
     title: Assemblers, Compilers, and Program Translation
   - isbn: 978-1-60229-876-7
     title: Introduction to American History
@@ -295,3 +295,277 @@ books:
     title: From Chips To Systems
   - isbn: 0-596-00178-9
     title: Perl & LWP
+  - isbn: 978-0-13-449416-6
+    title: Clean Architecture
+  - isbn: 978-1-491-92757-1
+    title: Linux Pocket Guide
+  - isbn: 978-1-491-95177-4
+    title: Building Software Teams
+  - isbn: 978-1617292392
+    title: Soft Skills
+  - isbn: 978-1-4302-1948-4
+    title: Coders At Work
+  - isbn: 0-201-83595-9
+    title: The Mythical Man-Month
+  - isbn: 978-0-7356-1967-8
+    title: Code Complete
+  - isbn: 978-0-13-235088-4
+    title: Clean Code
+  - isbn: 978-1-492-02950-2
+    title: The Site Reliability Workbook
+  - isbn: 978-1-491-92912-4
+    title: Site Reliability Engineering
+  - isbn: 978-1-491-97886-3
+    title: Seeking SRE
+  - isbn: 0-13-038885-8
+    title: "APL: The Language and Its Usage"
+  - isbn: 0-07-911364-8
+    title: Operating Systems Concepts and Design
+  - isbn: 0-201-14473-5
+    title: An Introduction to Operating Systems
+  - isbn: 978-0-13-212230-6
+    title: Data Abstraction & Problem Solving with Java
+  - isbn: 978-1-492-03149-9
+    title: Programming Bitcoin
+  - isbn: 978-1-491-98504-5
+    title: Mining the Social Web
+  - isbn: 978-1-7185-0044-0
+    title: The Rust Programming Language
+  - isbn: 0-914894-08-0
+    title: Introduction to Computer Organization
+  - isbn: 978-0-9815316-8-7
+    title: Programming In Scala
+  - isbn: 978-0-596-00965-6
+    title: Learning the bash Shell
+  - isbn: 978-0-385-52999-0
+    title: Ghettoside
+  - isbn: 978-0-06-231979-1
+    title: I'll Be Gone In The Dark
+  - isbn: 978-1-58648-907-6
+    title: Fatal System Error
+  - isbn: 978-0-316-03771-3
+    title: Ghost In The Wires
+  - isbn: 978-0-691-14289-0
+    title: The Little Book of String Theory
+  - isbn: "9780553053401"
+    title: A Brief History Of Time
+  - isbn: 978-0-345-53943-4
+    title: Cosmos
+  - isbn: "9780615430430"
+    title: For The Love Of Cities
+  - isbn: 978-0-374-53488-2
+    title: Happy City
+  - isbn: 978-0-525-42661-5
+    title: How Music Got Free
+  - isbn: 978-0-7704-3617-9
+    title: Countdown to Zero Day
+  - isbn: 978-0-385-49532-5
+    title: The Code Book
+  - isbn: 978-1-4000-7599-7
+    title: Turing's Cathedral
+  - isbn: 978-0-14-312279-1
+    title: The Idea Factory
+  - isbn: 978-0-684-83267-8
+    title: Where Wizards Stay Up Late
+  - isbn: 978-1-4002-9561-4
+    title: SPAM Nation
+  - isbn: 978-0-8021-2228-5
+    title: Exploding the Phone
+  - isbn: 978-0-06-230519-0
+    title: The Residence
+  - isbn: 0-306-81282-7
+    title: Friday Night Lights
+  - isbn: 978-0-19-985576-6
+    title: Plutopia
+  - isbn: 978-1-47116-661-7
+    title: The Lost City of Z
+  - isbn: 0-7868-8352-9
+    title: The Making of The Wizard of Oz
+  - isbn: 978-1-4000-6336-9
+    title: Pirate Hunters
+  - isbn: 978-1-4516-9367-6
+    title: The Train to Crystal City
+  - isbn: 978-0-316-35254-3
+    title: Code Girls
+  - isbn: 978-0-14-312681-2
+    title: In The Heart Of The Sea
+  - isbn: 978-0-88011-958-0
+    title: Power, Politics, and the Olympic Games
+  - isbn: 978-0-06-236360-2
+    title: Hidden Figures
+  - isbn: 978-1-250-07485-0
+    title: Deep Down Dark
+  - isbn: 978-0-14-310588-6
+    title: The Qur'an
+  - isbn: 978-1-78828-955-9
+    title: A Tale of Two Cities
+  - isbn: 978-1-59308-034-1
+    title: The Complete Sherlock Holmes Volume 1
+  - isbn: 978-0-06-207349-5
+    title: Murder on the Orient Express
+  - isbn: 1-59308-381-5
+    title: This Side of Paradise
+  - isbn: 978-0-684-80154-4
+    title: Tender is the Night
+  - isbn: 978-0-307-38973-2
+    title: Love in the Time of Cholera
+  - isbn: 0-06-074045-0
+    title: One Hundred Years of Solitude
+  - isbn: "9780679745204"
+    title: The English Patient
+  - isbn: 978-0-451-52634-2
+    title: Animal Farm
+  - isbn: 978-1-5011-6077-6
+    title: Bear Town
+  - isbn: "9780062466167"
+    title: My Dear Hamilton
+  - isbn: 978-1-250-02866-2
+    title: Z
+  - isbn: 978-1-59463-366-9
+    title: The Girl On The Train
+  - isbn: 1-59448-177-6
+    title: The Kite Runner
+  - isbn: 978-0-385-34685-6
+    title: The Dinner
+  - isbn: "9781401245252"
+    title: Watchmen
+  - isbn: 0-671-67368-8
+    title: While My Pretty One Sleeps
+  - isbn: 978-0-7704-3704-4
+    title: World War Z
+  - isbn: 978-0-440-21256-0
+    title: Outlander
+  - isbn: 978-0-451-47932-7
+    title: 13 Reasons Why
+  - isbn: 978-0-425-17034-2
+    title: Rainbow Six
+  - isbn: 978-0-425-24033-5
+    title: The Hunt For Red October
+  - isbn: 978-0-425-26353-2
+    title: Dead Or Alive
+  - isbn: 978-0-7352-1318-0
+    title: The Immortalists
+  - isbn: 978-0-345-52870-4
+    title: The Swans of Fifth Avenue
+  - isbn: 978-0-06-222555-9
+    title: Michael Chabon
+  - isbn: 978-0-06-085257-3
+    title: The Lacuna
+  - isbn: 978-0-316-15454-3
+    title: The Historian
+  - isbn: "9781400030385"
+    title: The Piano Tuner
+  - isbn: 0-385-72179-x
+    title: Atonement
+  - isbn: 978-0-385-54207-4
+    title: Nutshell
+  - isbn: 1-4000-7619-6
+    title: Saturday
+  - isbn: 978-0-345-52131-6
+    title: The Paris Wife
+  - isbn: 978-0-06-206062-4
+    title: The Song of Achilles
+  - isbn: 978-1-5011-0797-9
+    title: All The Missing Girls
+  - isbn: "9780143124542"
+    title: Me Before You
+  - isbn: 978-0-451-49044-5
+    title: What Alice Forgot
+  - isbn: 978-0-307-45454-6
+    title: The Girl With The Dragon Tattoo
+  - isbn: 978-1-61129-015-8
+    title: One Day
+  - isbn: 978-0-340-89701-0
+    title: Us
+  - isbn: 0-965-81867-5
+    title: The Time Traveler's Wife
+  - isbn: 978-1-4516-6711-0
+    title: The Sun and Other Starts
+  - isbn: 978-1-250-10119-8
+    title: The Revenant
+  - isbn: "9780767931113"
+    title: The Angel's Game
+  - isbn: 978-0-14-303490-2
+    title: The Shadow of the Wind
+  - isbn: "9780062663450"
+    title: The Women in the Castle
+  - isbn: 978-1-4767-2909-1
+    title: The Rosie Project
+  - isbn: 978-1-59420-398-5
+    title: Swing Time
+  - isbn: 978-1-59691-343-1
+    title: The Lemon Tree
+  - isbn: "9780670026197"
+    title: A Gentleman in Moscow
+  - isbn: 978-1-101-90358-2
+    title: The Martian
+  - isbn: "9780345804327"
+    title: The Undergrown Railroad
+  - isbn: 978-1-9848-0092-3
+    title: Something In The Water
+  - isbn: 978-0-316-50903-9
+    title: Math with Bad Drawings
+  - isbn: "9780143125082"
+    title: The Signal and the Noise
+  - isbn: 978-0-486-63317-6
+    title: Fourier Series
+  - isbn: 978-0-486-67870-2
+    title: Introduction to Graph Theory
+  - isbn: 978-0-486-24061-9
+    title: An Introduction to Information Theory
+  - isbn: 978-0-486-68252-5
+    title: Number Theory
+  - isbn: 978-1-4494-2770-2
+    title: Why Grizzly Bears Should Wear Underpants
+  - isbn: 978-1-4494-5995-6
+    title: The Terrible and Wonderful Reasons Why I Run Long Distances
+  - isbn: 978-1-4494-1024-7
+    title: How To Tell If Your Cat Is Plotting To Kill You
+  - isbn: "0060739096"
+    title: Futurama Adventures
+  - isbn: 1-883364-16-7
+    title: Extreme(ly Dumb) Sports
+  - isbn: 978-0-449-91026-9
+    title: Dave Barry's Complete Guide To Guys
+  - isbn: 978-1-57965-616-4
+    title: Menswear Dog
+  - isbn: 978-0-06-200001-9
+    title: My First Dictionary
+  - isbn: 978-1-4521-4974-5
+    title: Tiny Dog
+  - isbn: "9780553447965"
+    title: Little Felted Dogs
+  - isbn: 978-0-06-248413-0
+    title: The Art of Archer
+  - isbn: 0-596-00275-0
+    title: IP Routing
+  - isbn: 978-0-596-00254-1
+    title: BGP
+  - isbn: 1-56592-419-3
+    title: CGI Programming with Perl
+  - isbn: 978-0-596-10057-5
+    title: DNS and BIND
+  - isbn: 978-0-596-00410-1
+    title: DNS & BIND Cookbook
+  - isbn: 978-1-449-30519-2
+    title: DNS and BIND on IPv6
+  - isbn: 978-1-491-90163-2
+    title: "Hadoop: The Definitive Guide"
+  - isbn: 978-0-596-00270-1
+    title: Network Security with OpenSSL
+  - isbn: 978-1-491-93309-1
+    title: PHP Web Services
+  - isbn: 978-0-596-52812-6
+    title: Mastering Regular Expressions
+  - isbn: 978-0-596-80168-7
+    title: RESTful Web Services Cookbook
+  - isbn: 978-0-596-00783-6
+    title: Time Management for System Administrators
+  - isbn: 978-1-491-91029-0
+    title: Web Scraping with Python
+  - isbn: "9781500734756"
+    title: Blue Team Handbook
+  - isbn: "9781494295509"
+    title: Red Team Field Manual
+  - isbn: 978-0-07-177038-5
+    title: CompTIA Security+
